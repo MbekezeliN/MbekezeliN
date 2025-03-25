@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MbekezeliN
-- 👀 I’m interested in 
+- 👀 I’m interested in Data science and Data Analysis
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on creating projects on data querying using Python or R and data visualization on tableau and Power Bi.
 - 📫 How to reach me 
